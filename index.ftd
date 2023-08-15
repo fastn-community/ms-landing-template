@@ -4,10 +4,8 @@ sidebar: false
 
 -- spa.hero-with-image: We transform ideas into digital outcomes.
 link: landing/
-cta-primary: Demo
-cta-primary-link: landing/
-cta-secondary: How it works
-cta-secondary-link: landing/
+cta-primary: Learn More
+cta-primary-link: /#content
 image: $assets.files.assets.landing.svg
 
 We are an award-winning strategic design company that provides consultancy
@@ -20,27 +18,18 @@ and grow together.
 
 -- spa.hero-image-left: Create
 image: $assets.files.assets.left-img1.svg
-link: landing/
-cta-primary: Sign me up
-cta-primary-link: index.html
 
 Welcome Studio gives you all the tools you need to create and host virtual
 experiences that look awesome and put your brand centerstage.
 
 -- spa.hero-image-right: Engage
 image: $assets.files.assets.right-img.svg
-link: landing/
-cta-primary: Sign me up
-cta-primary-link: index.html
 
 Welcome Studio gives you all the tools you need to create and host virtual
 experiences that look awesome and put your brand centerstage.
 
 -- spa.hero-image-left: Analyze
 image: $assets.files.assets.left-img2.svg
-link: landing/
-cta-primary: Sign me up
-cta-primary-link: index.html
 
 Welcome Studio gives you all the tools you need to create and host virtual
 experiences that look awesome and put your brand centerstage.
@@ -80,10 +69,5 @@ logo-list: $common.list-of-logos
 
 The only SaaS business platform that combines CRM, marketing automation &
 commerce.
-
--- spa.search-card: We transform ideas into digital outcomes to elevate the connection between the brand and their users.
-label: Label
-cta-primary: Button
-cta-primary-link: landing/
 
 -- end: spa.page
